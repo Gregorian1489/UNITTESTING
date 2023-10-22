@@ -28,4 +28,4 @@
 [Test](https://github.com/Gregorian1489/UNITTESTING/blob/main/seminar4/Test/BookServiceTest.java)
 
 * Тесты пройдены успешно, скрин:
-[Скрин](https://github.com/Gregorian1489/UNITTESTING/blob/main/seminar4/1.png)
+![Скрин](https://github.com/Gregorian1489/UNITTESTING/blob/main/seminar4/1.png)
