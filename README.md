@@ -8,3 +8,6 @@
 
 
 [СЕМИНАР 4](https://github.com/Gregorian1489/UNITTESTING/tree/main/seminar4)
+
+
+[СЕМИНАР 5](https://github.com/Gregorian1489/UNITTESTING/tree/main/seminar5)
