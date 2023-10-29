@@ -11,3 +11,6 @@
 
 
 [СЕМИНАР 5](https://github.com/Gregorian1489/UNITTESTING/tree/main/seminar5)
+
+
+[СЕМИНАР 6](https://github.com/Gregorian1489/UNITTESTING/tree/main/seminar6)
